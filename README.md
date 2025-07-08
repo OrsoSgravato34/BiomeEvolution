@@ -25,7 +25,7 @@
 
 ## ⚙️ Requirements
 
-- Minecraft **1.XX**  
+- Minecraft **1.21**  
 - Java **17+** (recommended for modern Spigot/Paper versions)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/) *(optional, if economy or permissions integration is added)*
 
