@@ -34,7 +34,7 @@
 ## 📦 Installation
 
 1. Download the plugin JAR and drop it into your server’s `/plugins` folder.
-2. Restart the server.
+2. Restart the server, or if you have PlugManX installed /plugman reload BiomeEvolution
 3. Configure the plugin via `plugins/BiomeEvolution/config.yml` (optional).
 4. Enjoy a new, immersive survival experience!
 
