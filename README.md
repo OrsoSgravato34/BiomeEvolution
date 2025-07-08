@@ -42,7 +42,7 @@
 
 ## 📜 License
 
-This project is open source under the MIT License. See `LICENSE` for more information.
+This project is open source under the Apache License 2.0 License. See `LICENSE` for more information.
 
 ---
 
